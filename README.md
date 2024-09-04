@@ -3,8 +3,10 @@ This is a quick build Dockerfile to create a container for the Autogen Studio.
 The container is based on the Python3.10 image and installs the necessary dependencies to run the Autogen Studio.
 The container is built using the Dockerfile in this repository.
 
-# How to build the container
+# Prerequisites
 To build the container, you need to have Docker installed on your machine.
+
+# How to build the container
 To build the container, run the following command in the terminal:
 
 ```bash
